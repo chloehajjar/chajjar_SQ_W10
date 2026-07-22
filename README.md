@@ -20,7 +20,7 @@ Sound files must be present in `assets/sounds/` before running:
 
 **Player 2 Controls:**
 
-- Move: Arrow Keys
+- Move: left Right Arrow Keys
 - Attack: K
 - Block: L
 - Jump: UP Arrow
